@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "syler.sass-indented",
+        "sissel.shopify-liquid",
+        "davidanson.vscode-markdownlint",
+        "dotjoshjohnson.xml",
+        "redhat.vscode-yaml",
+        "jamesmaj.easy-icons"
+    ]
+}

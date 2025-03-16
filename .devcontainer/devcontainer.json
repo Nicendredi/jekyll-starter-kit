@@ -1,0 +1,16 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"Syler.sass-indented",
+				"jamesmaj.easy-icons",
+				"GitHub.copilot",
+				"sissel.shopify-liquid",
+				"DavidAnson.vscode-markdownlint",
+				"redhat.vscode-yaml",
+				"DotJoshJohnson.xml"
+			]
+		}
+	}
+}
